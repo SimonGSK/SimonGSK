@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Simon. A 23 year old studying Software Development at the IT University of Copenhagen. Doing small side projects to improve my skills
+
 <!--
 **SimonGSK/SimonGSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
